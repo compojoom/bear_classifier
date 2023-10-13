@@ -1,0 +1,6 @@
+voila
+fastai>=2.0.0
+pillow
+packaging
+ipywidgets
+ipython_genutils
